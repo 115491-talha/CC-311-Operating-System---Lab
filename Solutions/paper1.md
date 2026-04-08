@@ -17,7 +17,7 @@
     - The **owner has read and write permissions**.
     - The **group has read permission**.
     - Others have no permission.
-5. Create both a hard link and a symbolic link for `group2.txt`.
+5. Create both a **hard link** and a **symbolic link** for `group2.txt`.
 
 ### Solution
 
